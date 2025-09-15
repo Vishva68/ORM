@@ -48,7 +48,8 @@ admin.site.register(Movie_DB, Movie_DBAdmin)
 
 ## OUTPUT
 
-![alt text](<Screenshot (97).png>)
+<img width="1356" height="906" alt="Screenshot 2025-09-15 135552" src="https://github.com/user-attachments/assets/4c125d31-673e-4379-9604-3f76ba8a5b38" />
+
 
 
 
